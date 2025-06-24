@@ -26,7 +26,9 @@ o	KPI Cards (YTD Sales, QTD Sales, Reviews, Quantity)
 •	Added slicers for product category and time period filters to make the dashboard dynamic and interactive.
 
 
-- Dashboard Interaction <a href="https://github.com/AyaanKhan1711/Data-Analysis-Dashboard/blob/main/dashboard.png">View Dashboard</a>
+- Dashboard Interaction
+![dashboard](https://github.com/user-attachments/assets/9a08cc33-33f7-4718-9009-14e2682b8018)
+
 
 🔍 Project Insights
 •	Men Shoes, Cameras, and Men Clothes are top-performing categories.
